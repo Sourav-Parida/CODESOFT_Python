@@ -22,7 +22,7 @@ def click(event):
     else:
         svalue.set(svalue.get() + text)
         screen.update()
-
+#Sourav Parida
 
 root = Tk()
 root.config(bg="Gray30")
